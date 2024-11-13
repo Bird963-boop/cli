@@ -1,3 +1,4 @@
+![CM241112-203822001](https://github.com/user-attachments/assets/5f65e4a2-f356-4e66-b95f-c46fca1776c1)
 # GitHub CLI
 
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
